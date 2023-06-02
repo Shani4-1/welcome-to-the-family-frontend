@@ -1,6 +1,6 @@
 # Welcome To The Family App
 
-This is a web application built with PERN (PostgreSQL, Express, React, Node.js) and REST API that allows users to add their favorite memories to a list.
+This is a web application built with PERN (PostgreSQL, Express, React, Node.js) and REST API that allows users to add their favorite memories to a list along with comments.
 
 ## Developer
 
@@ -8,15 +8,15 @@ This is a web application built with PERN (PostgreSQL, Express, React, Node.js) 
 
 ## Trello Board
 
-To see our Trello Board, [Click Here](https://trello.com/invite/b/Y80U3ATTIba5d995b12b9bce1692bea3310d1bfc152462B1E/welcome-to-the-family) https://trello.com/invite/b/Y80U3ATTIba5d995b12b9bce1692bea3310d1bfc152462B1E/welcome-to-the-family
+To see my Trello Board, [Click Here](https://trello.com/invite/b/Y80U3ATTIba5d995b12b9bce1692bea3310d1bfc152462B1E/welcome-to-the-family) https://trello.com/invite/b/Y80U3ATTIba5d995b12b9bce1692bea3310d1bfc152462B1E/welcome-to-the-family
 
 ## Back-end
 
-- GitHub Repository URL: [Click Here](https://github.com/Shani4-1/welcome-to-the-family-backend)
-- Render Deployment URL: [Click Here](https://welcome-to-the-family.onrender.com/)
+- GitHub Repository URL: [Click Here](https://github.com/Shani4-1/welcome-to-the-family-backend) https://github.com/Shani4-1/welcome-to-the-family-backend
+- Render Deployment URL: [Click Here](https://welcome-to-the-family.onrender.com/) https://welcome-to-the-family.onrender.com/
 
 ## Front-end
--GitHub Repository URL:  [Click Here](https://github.com/Shani4-1/welcome-to-the-family-frontend)
+-GitHub Repository URL:  [Click Here](https://github.com/Shani4-1/welcome-to-the-family-frontend) https://github.com/Shani4-1/welcome-to-the-family-frontend
 
 - Netlify Deployment URL: [Click Here]()
 
