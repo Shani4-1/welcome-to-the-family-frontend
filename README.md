@@ -8,7 +8,7 @@ This is a web application built with PERN (PostgreSQL, Express, React, Node.js) 
 
 ## Trello Board
 
-To see our Trello Board, [Click Here](https://trello.com/invite/b/Y80U3sbb/ATTIba5d995b12b9bce1692bea3310d1bfc152462B1E/welcome-to-the-family).
+To see our Trello Board, [Click Here](https://trello.com/invite/b/Y80U3ATTIba5d995b12b9bce1692bea3310d1bfc152462B1E/welcome-to-the-family) https://trello.com/invite/b/Y80U3ATTIba5d995b12b9bce1692bea3310d1bfc152462B1E/welcome-to-the-family
 
 ## Back-end
 
