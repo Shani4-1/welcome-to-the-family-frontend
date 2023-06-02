@@ -15,6 +15,8 @@ To see my Trello Board, [Click Here](https://trello.com/invite/b/Y80U3ATTIba5d99
 - GitHub Repository URL: [Click Here](https://github.com/Shani4-1/welcome-to-the-family-backend) https://github.com/Shani4-1/welcome-to-the-family-backend
 - Render Deployment URL: [Click Here](https://welcome-to-the-family.onrender.com/) https://welcome-to-the-family.onrender.com/
 
+I cannot get the database to deploy with Render. Future stretch goal is to get both repositories deployed with a funtioning database.
+
 ## Front-end
 -GitHub Repository URL:  [Click Here](https://github.com/Shani4-1/welcome-to-the-family-frontend) https://github.com/Shani4-1/welcome-to-the-family-frontend
 
