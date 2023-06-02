@@ -1,4 +1,34 @@
-# Getting Started with Create React App
+# Welcome To The Family App
+
+This is a web application built with PERN (PostgreSQL, Express, React, Node.js) and REST API that allows users to add their favorite memories to a list.
+
+## Developer
+
+- Shaniqua Coston
+
+## Trello Board
+
+To see our Trello Board, [Click Here](https://trello.com/invite/b/Y80U3sbb/ATTIba5d995b12b9bce1692bea3310d1bfc152462B1E/welcome-to-the-family).
+
+## Back-end
+
+- GitHub Repository URL: [Click Here](https://github.com/Shani4-1/welcome-to-the-family-backend)
+- Render Deployment URL: [Click Here](https://welcome-to-the-family.onrender.com/)
+
+## Front-end
+-GitHub Repository URL:  [Click Here](https://github.com/Shani4-1/welcome-to-the-family-frontend)
+
+- Netlify Deployment URL: [Click Here]()
+
+## Installation
+
+To run this app on your local machine, clone the repository and run the following commands:
+
+```bash
+npm install
+npm install axios react-router-dom
+```
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

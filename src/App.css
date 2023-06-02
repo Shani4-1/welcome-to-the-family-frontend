@@ -1,38 +1,136 @@
 .App {
   text-align: center;
+  background-image: url("https://live.staticflickr.com/65535/52945153168_e977c4e762_z.jpg");
+  background-size: contain;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #fff;
+  padding: 10px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.button-container {
+  display: flex;
+  align-items: center;
+  margin-left: 450px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.button-container button {
+  background-color: black;
+  color: white;
+  border: none;
+  border-radius: 20px;
+  padding: 10px 20px;
+  margin-left: 10px;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.button-container button a {
+  color: white;
+  text-decoration: none;
+}
+
+.button-container button:hover {
+  background-color: #333;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+
+.logo-container img {
+  width: 200px; 
+  height: auto; 
+  
+}
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.card {
+  width: 300px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.card-link {
+  text-decoration: none;
+  color: blue;
+  font-weight: bold;
+  
+}
+.larger-image {
+  width: 500px; /* Adjust the width as desired */
+  height: auto; /* Maintain the aspect ratio */
+  margin: 0 auto; /* Center the image horizontally */
+}
+
+.center-buttons {
+  display: flex;
+  justify-content:center;
+  margin-right: 450px;
+}
+.Edit,
+.New form {
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  background-color: #f4f4f4;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+  min-width: 500px;
 }
 
-.App-link {
-  color: #61dafb;
+.Edit form,
+.New form form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.Edit input,
+.New form input,
+.Edit textarea,
+.New form textarea {
+  margin: 10px 0;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #ffffff;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+}
+
+.Edit input[type="submit"],
+.New form input[type="submit"],
+.Edit button,
+.New form button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: #007bff; /* Use your color scheme */
+  color: #333333;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.Edit button:hover,
+.New form button:hover,
+.Edit input[type="submit"]:hover,
+.New form input[type="submit"]:hover {
+  background-color: #86c0e3; /* Use your color scheme */
+  color: #ffffff;
 }
